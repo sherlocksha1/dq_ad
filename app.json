@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/sherlocksha1/DQ_",
+    "repository": "https://github.com/sherlocksha1/dq_ad",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
